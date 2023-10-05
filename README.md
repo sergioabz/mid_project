@@ -2,7 +2,7 @@
 
 ## *Motivation*
 
-I am myself a traveler and an immigrant interested in the inflows and outflows of people from one place to the other. I found always fascinating the stories behind people, and how they got to their destination. I expect to clarify some interrogants that I have had for the last few years exploring and cleaning this OECD (Organization for Co-operation and Development) data bases. 
+I am myself a traveler and an immigrant interested in the inflows and outflows of people from one place to the other. I found always fascinating the stories behind people, and how they got to their destination. I expect to clarify some interrogants that I have had for the last few years exploring and cleaning these OECD (Organization for Co-operation and Development) data bases. 
 
 ## *Dataset*
 The datasets used for this project are  "MIG_NUP_RATES_GENDER_28092023210223162.csv", "MIG_NUP_RATES_GENDER_28092023210223162.csv", "MIG_28092023210139302.csv" , found on https://stats.oecd.org/Index.aspx# theme: Demography and Population.
