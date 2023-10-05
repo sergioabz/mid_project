@@ -26,12 +26,12 @@ My MidBootcamp Project aims to answer the following questions based on explorati
     To understand the overall nationality acquisition rates over time, the project examines historical rates of naturalisation and visualizes it using appropriate plots
     in order to identify the OECD countries.
 
-4. Which are the top five OECD countries that present the best laboral integration rates according to the educational attainment of the immigrant?
+4. Which are the top five OECD countries that present the best laboral integration rates according to the educational attainment of the immigrant 2015-2019?
 
     The project examines historical rates of employment and visualizes them using appropriate plots
     in order to identify the five OECD countries.
 
-5. Which are the OECD countires where immigrant women have reached the highest integration rate in the labor market during 2015-2019?
+5. Which are the OECD countires where immigrant women have reached the highest integration rate in the labor market during 2010-2020?
 
     The project examines historical rates of employment and visualizes them using appropriate plots
     in order to identify the five OECD countries.
