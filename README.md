@@ -1,5 +1,4 @@
-[Immigration](mid_project/pictures/logo.png)
-#**ANALYSIS ON IMMIGRATION PROJECT**
+# **ANALYSIS ON IMMIGRATION PROJECT**
 
 ## *Motivation*
 
